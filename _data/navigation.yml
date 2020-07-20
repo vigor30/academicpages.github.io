@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://vigor30.github.io/giulio/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://vigor30.github.io/giulio/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://vigor30.github.io/giulio/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://vigor30.github.io/giulio/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://vigor30.github.io/giulio/year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://vigor30.github.io/giulio/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: https://vigor30.github.io/giulio/markdown/
