@@ -82,11 +82,11 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "28. Ph.D. student in statistics @ University of Florence, Stat and Econ, English, Italian and Portuguese."
   location         : "Florence, IT"
   employer         : University of Florence - IRPET
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=0cMVzPcAAAAJ&hl=it"
   email            : giulio.grossi@unifi.it
   researchgate     :  "https://www.researchgate.net/profile/Giulio_Grossi"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "giuliogrossi"
   vine             :
   weibo            :
   xing             :
