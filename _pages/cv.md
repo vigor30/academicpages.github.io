@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2017: Research Assistant
+  * CIEO - Research Center for Spatial and Organizational Dynamics - Faro, PT
+  * Duties included: 
+  * Supervisor: Prof. Ana Paula Barreira
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2017- June 2018: Research Assistant
+  * IRPET - Regional Institute for Economic Planning of Tuscany
+  * Duties included: Evaluating the economic impact of public infrastructures, Active policies for tax audits
+  * Supervisor: Dott. Patrizia Lattarulo
   
 Skills
 ======
