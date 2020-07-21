@@ -1,7 +1,7 @@
 ---
 title: "The effects of a new tramway line on the commercial vitality of peripheral neighborhoods"
 collection: talks
-type: "Talk"
+type: "Poster presentation"
 permalink: /talks/eurocim2018
 venue: "EuroCIM 2018"
 date: 10-04-2018
