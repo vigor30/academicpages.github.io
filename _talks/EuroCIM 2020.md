@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Principal Stratification with longitudinal data and truncation by death"
 collection: talks
-type: "Talk"
+type: "Oral presentation"
 permalink: /talks/EuroCIM 2020/
 venue: "EuroCIM 2020"
 date: 21/04/2020
