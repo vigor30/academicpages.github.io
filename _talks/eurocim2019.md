@@ -2,7 +2,7 @@
 title: "Direct and spillover effects using the synthetic control method
 in the presence of interference"
 collection: talks
-type: "Conference proceedings talk"
+type: "Oral presentation"
 permalink: /talks/eurocim2019
 venue: "EuroCIM 2019"
 date: 27-03-2019
