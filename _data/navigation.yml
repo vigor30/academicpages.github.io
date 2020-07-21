@@ -12,11 +12,14 @@ main:
   - title: "Portfolio"
     url: https://vigor30.github.io/giulio/portfolio/
         
-  - title: "Blog Posts"
-    url: https://vigor30.github.io/giulio/year-archive/
-    
   - title: "CV"
     url: https://vigor30.github.io/giulio/cv/
     
   - title: "Guide"
     url: https://vigor30.github.io/giulio/markdown/
+    
+  - title: "Machine Learning"
+    url: https://vigor30.github.io/giulio/ml/
+    
+  - title: "Blog Posts"
+    url: https://vigor30.github.io/giulio/year-archive/
