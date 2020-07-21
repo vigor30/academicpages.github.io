@@ -1,0 +1,14 @@
+---
+title: "Synthetic Control Group Methods in the Presence of Interference: The Direct and Spillover Effects of Light Rail on Neighborhood Retail Activity"
+collection: publications
+permalink: /publication/scm
+excerpt: ''
+date: 10-04-2020
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/pdf/2004.05027v2.pdf'
+citation: 'Grossi, G., Lattarulo, P., Mariani, M., Mattei, A., & Öner, Ö. (2020). Synthetic Control Group Methods in the Presence of Interference: The Direct and Spillover Effects of Light Rail on Neighborhood Retail Activity. arXiv preprint arXiv:2004.05027.'
+---
+In recent years, Synthetic Control Group (SCG) methods have received great attention from scholars and have been subject to extensions and comparisons with alternative approaches for program evaluation. However, the existing methodological literature mainly relies on the assumption of non-interference. We propose to generalize the SCG method to studies where interference between the treated and the untreated units is plausible. We frame our discussion in the potential outcomes approach. Under a partial interference assumption, we formally define relevant direct and spillover effects. We also consider the "unrealized" spillover effect on the treated unit in the hypothetical scenario that another unit in the treated unit's neighborhood had been assigned to the intervention. Then we investigate the assumptions under which we can identify and estimate the causal effects of interest, and show how they can be estimated using the SCG method. We apply our approach to the analysis of an observational study, where the focus is on assessing direct and spillover causal effects of a new light rail line recently built in Florence (Italy) on the commercial vitality of the street where it was built and of the streets in the treated street's neighborhood.
+
+[Download paper here](https://arxiv.org/pdf/2004.05027v2.pdf)
+
