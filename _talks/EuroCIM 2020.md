@@ -3,7 +3,7 @@ title: "Bayesian Principal Stratification with longitudinal data and truncation 
 collection: talks
 type: "Talk"
 permalink: /talks/EuroCIM 2020/
-venue: "Zoom webinar"
+venue: "EuroCIM 2020"
 date: 21/04/2020
 location: "Webinar, in place of Oslo, Norway"
 ---
